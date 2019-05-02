@@ -1,0 +1,16 @@
+{
+    "Book": [
+        {
+            "guest_name": "Venom",
+            "guest_surname": "Dreadful",
+            "email": "venom@space.com",
+            "status": "in processing"
+        },
+        {
+            "guest_name": "REY12",
+            "guest_surname": "Scalator",
+            "email": "Harold@gmail.com",
+            "status": "Guest deleted"
+        }
+    ]
+}
